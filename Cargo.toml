@@ -1,0 +1,13 @@
+[package]
+name = "pana"
+version = "0.1.0"
+authors = [
+  "Andrew Burkhart <burkhartfc@icloud.com>"
+]
+edition = "2021"
+description = "A project-based framework for learning Rust"
+readme = "README.md"
+
+
+[dependencies]
+
