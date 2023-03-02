@@ -7,7 +7,7 @@ authors = [
 edition = "2021"
 description = "A project-based framework for learning Rust"
 readme = "README.md"
-
+license = "MIT"
 
 [dependencies]
 
